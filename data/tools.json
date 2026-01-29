@@ -1,0 +1,108 @@
+{
+  "categories": [
+    { "id": "all", "name": "全部", "icon": "📦" },
+    { "id": "ai", "name": "AI工具", "icon": "🤖" },
+    { "id": "dev", "name": "开发工具", "icon": "💻" },
+    { "id": "design", "name": "设计工具", "icon": "🎨" },
+    { "id": "productivity", "name": "效率工具", "icon": "⚡" },
+    { "id": "converter", "name": "转换工具", "icon": "🔄" }
+  ],
+  "tools": [
+    {
+      "id": 1,
+      "name": "ChatGPT",
+      "description": "OpenAI 的对话式 AI 助手",
+      "url": "https://chat.openai.com",
+      "category": "ai",
+      "icon": "🤖"
+    },
+    {
+      "id": 2,
+      "name": "GitHub",
+      "description": "全球最大的代码托管平台",
+      "url": "https://github.com",
+      "category": "dev",
+      "icon": "🐙"
+    },
+    {
+      "id": 3,
+      "name": "Figma",
+      "description": "在线协作设计工具",
+      "url": "https://figma.com",
+      "category": "design",
+      "icon": "🎨"
+    },
+    {
+      "id": 4,
+      "name": "Notion",
+      "description": "一体化笔记和协作工具",
+      "url": "https://notion.so",
+      "category": "productivity",
+      "icon": "📝"
+    },
+    {
+      "id": 5,
+      "name": "Claude",
+      "description": "Anthropic 的 AI 助手",
+      "url": "https://claude.ai",
+      "category": "ai",
+      "icon": "🧠"
+    },
+    {
+      "id": 6,
+      "name": "CodePen",
+      "description": "在线前端代码编辑器",
+      "url": "https://codepen.io",
+      "category": "dev",
+      "icon": "✏️"
+    },
+    {
+      "id": 7,
+      "name": "Canva",
+      "description": "简单易用的在线设计工具",
+      "url": "https://canva.com",
+      "category": "design",
+      "icon": "🖼️"
+    },
+    {
+      "id": 8,
+      "name": "TinyPNG",
+      "description": "在线图片压缩工具",
+      "url": "https://tinypng.com",
+      "category": "converter",
+      "icon": "🗜️"
+    },
+    {
+      "id": 9,
+      "name": "Trello",
+      "description": "看板式项目管理工具",
+      "url": "https://trello.com",
+      "category": "productivity",
+      "icon": "📋"
+    },
+    {
+      "id": 10,
+      "name": "VS Code",
+      "description": "微软出品的代码编辑器",
+      "url": "https://code.visualstudio.com",
+      "category": "dev",
+      "icon": "💎"
+    },
+    {
+      "id": 11,
+      "name": "Midjourney",
+      "description": "AI 图像生成工具",
+      "url": "https://midjourney.com",
+      "category": "ai",
+      "icon": "🖼️"
+    },
+    {
+      "id": 12,
+      "name": "Dribbble",
+      "description": "设计师作品展示平台",
+      "url": "https://dribbble.com",
+      "category": "design",
+      "icon": "🏀"
+    }
+  ]
+}
